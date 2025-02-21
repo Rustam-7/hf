@@ -1,0 +1,52 @@
+body{
+background-image: url(./Rectangle\ 18\ \(1\).png);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+ 
+}
+.siuu{
+    width: 1180px;
+    height: 392px;
+    background-color: white;
+    box-shadow: 0px 0px 35px 0px rgba(212, 20, 90, 0.25);
+    border-radius: 10px;
+    text-align: center;
+}
+input{
+    width: 362px;
+height: 50px;
+
+border-radius: 9px;
+border-width: 1px;
+border: 1px solid #A1A1A1;
+color: white;
+}
+.sui{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.aas{
+    width: 749px;
+height: 81px;
+
+border-radius: 9px;
+border-width: 1px;
+margin-top: 20px;
+}
+button{
+    width: 169px;
+height: 42px;
+
+border-radius: 9px;
+background: linear-gradient(96.12deg, #D4145A -21.03%, #3D5BF5 103.56%);
+color: white;
+margin-top: 20px;
+}
